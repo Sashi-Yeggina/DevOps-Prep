@@ -75,3 +75,4 @@
 - `alias`: Create an alias for a command
 - `echo`: Display a line of text
 - `history`: Show command history
+
